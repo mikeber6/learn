@@ -1,0 +1,15 @@
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\bin\Debug\OfficeSupply.exe.config
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\bin\Debug\OfficeSupply.exe
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\bin\Debug\OfficeSupply.pdb
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\MainWindow.g.cs
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\App.g.cs
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply_MarkupCompile.cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply_MarkupCompile.lref
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\MainWindow.baml
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.g.resources
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.Properties.Resources.resources
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.csproj.GenerateResource.Cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.exe
+C:\Michael\VS Projects\C# OOP\Activity14_1\OfficeSupply\obj\Debug\OfficeSupply.pdb

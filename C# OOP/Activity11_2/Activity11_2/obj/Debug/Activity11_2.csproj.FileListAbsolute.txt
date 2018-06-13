@@ -1,0 +1,15 @@
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\bin\Debug\Activity11_2.exe.config
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\bin\Debug\Activity11_2.exe
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\bin\Debug\Activity11_2.pdb
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.csprojResolveAssemblyReference.cache
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\MainWindow.g.cs
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\App.g.cs
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2_MarkupCompile.cache
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2_MarkupCompile.lref
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\MainWindow.baml
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.g.resources
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.Properties.Resources.resources
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.csproj.GenerateResource.Cache
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.csproj.CoreCompileInputs.cache
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.exe
+c:\users\mberard\documents\visual studio 2017\Projects\Activity11_2\Activity11_2\obj\Debug\Activity11_2.pdb

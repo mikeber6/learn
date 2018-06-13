@@ -1,0 +1,7 @@
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\obj\Debug\Activity14_1.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\obj\Debug\Activity14_1.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\bin\Activity14_1.dll.config
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\bin\Activity14_1.dll
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\bin\Activity14_1.pdb
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\obj\Debug\Activity14_1.dll
+C:\Michael\VS Projects\C# OOP\Activity14_1\Activity14_1\obj\Debug\Activity14_1.pdb

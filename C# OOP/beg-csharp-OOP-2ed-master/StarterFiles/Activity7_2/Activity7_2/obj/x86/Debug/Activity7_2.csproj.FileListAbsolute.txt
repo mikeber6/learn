@@ -1,0 +1,25 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\bin\Debug\Activity7_2Starter.exe.config
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2Starter.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2Starter.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\bin\Debug\Activity7_2Starter.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\bin\Debug\Activity7_2Starter.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2Starter.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2Starter.TellerForm.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\Activity7_2\obj\x86\Debug\Activity7_2.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\bin\Debug\Activity7_2Starter.exe.config
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\obj\x86\Debug\Activity7_2Starter.exe
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\obj\x86\Debug\Activity7_2Starter.pdb
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\Activity7_2\bin\Debug\Activity7_2Starter.exe.config
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.exe
+C:\Users\Dan\Documents\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.pdb
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\bin\Debug\Activity7_2Starter.exe.config
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\bin\Debug\Activity7_2Starter.exe
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\bin\Debug\Activity7_2Starter.pdb
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.Properties.Resources.resources
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.TellerForm.resources
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2.csproj.GenerateResource.Cache
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.exe
+C:\Michael\VS Projects\C# OOP\beg-csharp-OOP-2ed-master\StarterFiles\Activity7_2\Activity7_2\obj\x86\Debug\Activity7_2Starter.pdb

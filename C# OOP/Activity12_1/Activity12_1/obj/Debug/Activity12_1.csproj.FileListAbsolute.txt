@@ -1,0 +1,9 @@
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\bin\Activity12_1.dll.config
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\bin\Activity12_1.dll
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\bin\Activity12_1.pdb
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\obj\Debug\Activity12_1.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\obj\Debug\Activity12_1.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\obj\Debug\Activity12_1.dll
+C:\Michael\VS Projects\C# OOP\Activity12_1\Activity12_1\obj\Debug\Activity12_1.pdb

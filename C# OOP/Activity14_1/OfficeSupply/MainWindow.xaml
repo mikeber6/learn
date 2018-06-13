@@ -1,0 +1,14 @@
+﻿<Window x:Class="OfficeSupply.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OfficeSupply"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Text="Discount Code:" FontSize="20" Margin="10,25,350,250"/>
+        <TextBox Name="txtDiscountCode" FontSize="20" Margin="160,25,100,250"/>
+        <Button Name="btnGetDiscount" Content="Get Discount" Width="150" FontSize="20" Margin="150,75,213,200" Click="btnGetDiscount_Click"/>
+    </Grid>
+</Window>

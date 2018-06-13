@@ -1,0 +1,16 @@
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\MainWindow.g.cs
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\App.g.cs
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient_MarkupCompile.cache
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient_MarkupCompile.lref
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\bin\Debug\StockServiceClient.exe.config
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\bin\Debug\StockServiceClient.exe
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\bin\Debug\StockServiceClient.pdb
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\MainWindow.baml
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.g.resources
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.Properties.Resources.resources
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.csproj.GenerateResource.Cache
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.exe
+C:\Michael\VS Projects\C# OOP\Activity14_2\StockServiceClient\obj\Debug\StockServiceClient.pdb

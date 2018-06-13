@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WideWorldImportersModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="StockItem">
+    <Key>
+      <PropertyRef Name="StockItemID" />
+    </Key>
+    <Property Name="StockItemID" Type="Int32" Nullable="false" />
+    <Property Name="StockItemName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SupplierID" Type="Int32" Nullable="false" />
+    <Property Name="ColorID" Type="Int32" />
+    <Property Name="UnitPackageID" Type="Int32" Nullable="false" />
+    <Property Name="OuterPackageID" Type="Int32" Nullable="false" />
+    <Property Name="Brand" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Size" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="LeadTimeDays" Type="Int32" Nullable="false" />
+    <Property Name="QuantityPerOuter" Type="Int32" Nullable="false" />
+    <Property Name="IsChillerStock" Type="Boolean" Nullable="false" />
+    <Property Name="Barcode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TaxRate" Type="Decimal" Precision="18" Scale="3" Nullable="false" />
+    <Property Name="UnitPrice" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="RecommendedRetailPrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TypicalWeightPerUnit" Type="Decimal" Precision="18" Scale="3" Nullable="false" />
+    <Property Name="MarketingComments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="InternalComments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="CustomFields" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Tags" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="SearchDetails" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="LastEditedBy" Type="Int32" Nullable="false" />
+    <Property Name="ValidFrom" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="ValidTo" Type="DateTime" Nullable="false" Precision="7" />
+  </EntityType>
+  <EntityContainer Name="WideWorldImportersEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="StockItems" EntityType="Self.StockItem" />
+  </EntityContainer>
+</Schema>

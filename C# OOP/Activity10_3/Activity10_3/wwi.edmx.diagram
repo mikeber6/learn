@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2e6440e3c49248ce927a275a65b0b3cc" Name="Diagram1">
+        <EntityTypeShape EntityType="WideWorldImportersModel.Person" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WideWorldImportersModel.Customer" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="WideWorldImportersModel.OrderLine" Width="1.5" PointX="7.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WideWorldImportersModel.Order" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Application_People_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Customers_AlternateContactPersonID_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Customers_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Customers_PrimaryContactPersonID_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_OrderLines_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_ContactPersonID_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_PickedByPersonID_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_SalespersonPersonID_Application_People" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Customers_BillToCustomerID_Sales_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_CustomerID_Sales_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_OrderLines_OrderID_Sales_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_BackorderOrderID_Sales_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,7 @@
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\bin\Debug\Activity5_2.exe.config
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\bin\Debug\Activity5_2.exe
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\bin\Debug\Activity5_2.pdb
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\obj\Debug\Activity5_2.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\obj\Debug\Activity5_2.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\obj\Debug\Activity5_2.exe
+C:\Michael\VS Projects\C# OOP\Activity5_2\Activity5_2\obj\Debug\Activity5_2.pdb

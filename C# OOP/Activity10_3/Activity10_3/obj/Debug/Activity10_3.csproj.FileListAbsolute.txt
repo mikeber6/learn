@@ -1,0 +1,11 @@
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\Activity10_3.exe.config
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\Activity10_3.exe
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\Activity10_3.pdb
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\EntityFramework.dll
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\EntityFramework.xml
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\obj\Debug\Activity10_3.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\obj\Debug\Activity10_3.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\obj\Debug\Activity10_3.exe
+C:\Michael\VS Projects\C# OOP\Activity10_3\Activity10_3\obj\Debug\Activity10_3.pdb

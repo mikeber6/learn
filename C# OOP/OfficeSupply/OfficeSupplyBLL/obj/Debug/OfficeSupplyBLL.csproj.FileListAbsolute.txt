@@ -1,0 +1,7 @@
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\bin\Debug\OfficeSupplyBLL.dll.config
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\bin\Debug\OfficeSupplyBLL.dll
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\bin\Debug\OfficeSupplyBLL.pdb
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\obj\Debug\OfficeSupplyBLL.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\obj\Debug\OfficeSupplyBLL.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\obj\Debug\OfficeSupplyBLL.dll
+C:\Michael\VS Projects\C# OOP\OfficeSupply\OfficeSupplyBLL\obj\Debug\OfficeSupplyBLL.pdb

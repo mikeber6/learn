@@ -1,0 +1,7 @@
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\bin\Debug\Activity10_1.exe.config
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\bin\Debug\Activity10_1.exe
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\bin\Debug\Activity10_1.pdb
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\obj\Debug\Activity10_1.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\obj\Debug\Activity10_1.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\obj\Debug\Activity10_1.exe
+C:\Michael\VS Projects\C# OOP\Activity10_1\Activity10_1\obj\Debug\Activity10_1.pdb
