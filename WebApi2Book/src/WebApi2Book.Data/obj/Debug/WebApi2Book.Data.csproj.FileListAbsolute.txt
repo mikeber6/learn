@@ -1,0 +1,6 @@
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.pdb
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csprojResolveAssemblyReference.cache
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb

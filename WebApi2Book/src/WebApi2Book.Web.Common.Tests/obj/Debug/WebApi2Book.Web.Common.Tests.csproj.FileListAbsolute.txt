@@ -1,0 +1,5 @@
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Web.Common.Tests\bin\Debug\WebApi2Book.Web.Common.Tests.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Web.Common.Tests\bin\Debug\WebApi2Book.Web.Common.Tests.pdb
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Web.Common.Tests\obj\Debug\WebApi2Book.Web.Common.Tests.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Web.Common.Tests\obj\Debug\WebApi2Book.Web.Common.Tests.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Web.Common.Tests\obj\Debug\WebApi2Book.Web.Common.Tests.pdb

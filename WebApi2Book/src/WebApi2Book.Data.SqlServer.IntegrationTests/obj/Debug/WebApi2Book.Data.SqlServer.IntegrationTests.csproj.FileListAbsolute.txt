@@ -1,0 +1,5 @@
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Michael\VS Projects\Books\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
